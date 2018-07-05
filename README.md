@@ -5,6 +5,4 @@ http://forum.kodi.tv/showthread.php?tid=183084
 
 Imported from the old [Google Code source](https://code.google.com/archive/p/xbmc-bradvido-repository/)
 
-Not maintained by me or anyone, and tbh I have no idea if it even works.
-
-But I saw that the old link was dead and decided to upload it for others.
+Modified to work on my lastest OSMC instance in my car, needed to change the resume functionality 
